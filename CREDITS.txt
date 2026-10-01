@@ -1,0 +1,58 @@
+THE IMPOSTER
+Credits & Intellectual Property Notice
+=======================================
+
+© 2026 Hamo / The Imposter. All Rights Reserved.
+
+GAME
+----
+Title: The Imposter
+Developer/Publisher: Hamo
+Year: 2026
+
+CHARACTER ART
+-------------
+The game uses the following character concepts and game-specific visual presentations:
+
+1. Newcomer Hero
+2. Hooded Mystery
+3. Night Sorceress
+4. Gang Leader
+5. Alien Visitor
+6. Wolf Warrior
+7. Armored Knight
+8. Fairy Queen
+9. Horned Beast
+10. Legendary King
+11. Male Ice Dragon
+
+AI-ASSISTED CREATION
+--------------------
+Some character artwork was created with generative AI tools from creative
+direction and prompts prepared for The Imposter, then selected, reviewed,
+adapted, cropped, formatted, and integrated into the game.
+
+As between the user and OpenAI, and to the extent permitted by applicable
+law, OpenAI's Terms of Use state that the user owns Output and that OpenAI
+assigns to the user its rights, if any, in that Output. AI-generated output
+may not be unique, and similar output may be generated for other users.
+
+This notice therefore does not claim that every AI-generated visual is
+legally exclusive or that copyright protection applies to every element in
+every jurisdiction.
+
+THIRD-PARTY RIGHTS
+------------------
+The game is intended to use original or properly licensed assets. No
+third-party character, logo, artwork, music, trademark, or other protected
+material is intentionally claimed as The Imposter's property unless the
+necessary rights or permission have been obtained.
+
+CONTACT
+-------
+mohammedosamagames@gmail.com
+
+This file is a project/copyright notice and is not a substitute for legal
+advice, copyright registration, trademark registration, or a license.
+
+© 2026 Hamo / The Imposter. All Rights Reserved.
